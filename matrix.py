@@ -1,6 +1,4 @@
-
 matrix=[]
-
 def print_matrix(matrix):
     print()
     for l in range(len(matrix)):
@@ -140,6 +138,7 @@ def main(matrix):
     
 
 main(matrix)
+
 
 
 
