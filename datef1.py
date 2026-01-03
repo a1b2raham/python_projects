@@ -90,8 +90,6 @@ while chk:
     print(day[days%7])
     # interface    
     while chk:
-        
-        
         a= input("\ndo you wish to continue(y/n): ").lower()
         if a=='y':
             break
@@ -103,3 +101,4 @@ while chk:
             continue   
     
         
+
